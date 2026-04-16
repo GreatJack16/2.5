@@ -1,5 +1,5 @@
 print("Hello World")
-n = 100001
+n = 10000
 for i in range (n):
     print(i)
 print(n)
