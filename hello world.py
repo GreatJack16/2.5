@@ -1,2 +1,4 @@
 print("Hello World")
-print("Hello jes")
+n = 1000
+for i in range (n):
+    print(i)
